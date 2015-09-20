@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Місцезнаходження</string>
+    <string name="app_label">Місцезнаходження</string>
+    <string name="location_warning_title">Підтвердження на використання місцезнаходження</string>
+    <string name="location_warning_title_first">Підтвердження на використання місцезнаходження/string>
+    <string name="location_warning_title_close">Підтвердження на використання місцезнаходження/string>
+    <string name="location_warning_message">"Коли NLP (Network Location Provider) фунцкція увімкнута, Ви дозволяєте Baidu NLP-службі анонімно збирати інформацію про місцезнаходження. Деяка інформація може бути незашифрованою і зберігатися на вашому пристрої. Збір інформації може відбуватися навіть коли немає запущених додатків. Це може призвести до використання додаткового мобільному трафіку. Отримані від вас дані будуть використані для підвищення точності визначення місцезнаходження і підвищення якості послуг. Ми обіцяємо, що отримані від вас дані ніколи не будуть передані третім особам чи компаніям. Зібрана інформація включає в себе:
+- ID, потужність сигналу Wi-Fi та мережі;
+- ID, потужність сигналу Wi-Fi та мережі (для GSM);
+- ID, потужність сигналу Wi-Fi та мережі (для WCDMA);"</string>
+    <string name="location_close_warning_message">Закриття програми Місцезнаходження може призвести до помилок в роботі деяких програм</string>
+    <string name="location_first_warning_message">Для покращення роботи пристрою та програм система запустить службу визначення місцезнаходження</string>
+    <string name="agree">Приймаю</string>
+    <string name="disagree">Не приймаю</string>
+    <string name="close_agree">Так</string>
+    <string name="close_disagree">Ні</string>
+</resources>
