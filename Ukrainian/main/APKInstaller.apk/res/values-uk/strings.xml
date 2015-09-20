@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Встановлювач APK</string>
+    <string name="none_apk">Немає APK-файлів</string>
+    <string name="settings_safetylegal_activity_loading">Завантаження…</string>
+    <string name="menu_stats_refresh">Оновлення</string>
+</resources>
